@@ -1,0 +1,81 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/main/doc/json_schema.json",
+  "logo": {
+    "type": "kitty",
+    "source": "~/linus.jpg",
+    "height": 12,
+    "width": 16,
+    "padding": {
+      "top": 0,
+      "left": 24,
+      "right": 15
+    }
+  },
+  "display": {
+    "separator": " "
+  },
+  "modules": [
+    {
+      "key": "•••••••••••••",
+      "type": "custom"
+    },
+    {
+      "key": "• {#35} name    {#keys}•",
+      "type": "custom",
+      "format": "\u001b[1;36mLinus Benedict Torvalds\u001b[0m"
+    },
+    {
+      "key": "• {#36}󰃭 born    {#keys}•",
+      "type": "custom",
+      "format": "\u001b[1mDec 28, 1969 (Helsinki)\u001b[0m"
+    },
+    {
+      "key": "• {#32} degree  {#keys}•",
+      "type": "custom",
+      "format": "\u001b[1mM.S. CS (Univ. of Helsinki)\u001b[0m"
+    },
+    {
+      "key": "• {#33} famous  {#keys}•",
+      "type": "custom",
+      "format": "\u001b[1mLinux Kernel & Git\u001b[0m"
+    },
+    {
+      "key": "• {#34} role    {#keys}•",
+      "type": "custom",
+      "format": "\u001b[1mLead developer & maintainer of Linux (BDFL)\u001b[0m"
+    },
+    {
+      "key": "• {#35}󰌌 weapons {#keys}•",
+      "type": "custom",
+      "format": "\u001b[1mC, x86 Assembly, Systems Architecture\u001b[0m"
+    },
+    {
+      "key": "• {#36}󰯈 hobbies {#keys}•",
+      "type": "custom",
+      "format": "\u001b[1mScuba diving (Wrote his own dive tracker)\u001b[0m"
+    },
+    {
+      "key": "• {#32} quote   {#keys}•",
+      "type": "custom",
+      "format": "\u001b[1m\"Talk is cheap. Show me the code.\"\u001b[0m"
+    },
+    {
+      "key": "• {#33} awards  {#keys}•",
+      "type": "custom",
+      "format": "\u001b[1mMillennium Tech Prize (Too practical for Turing)\u001b[0m"
+    },
+    {
+      "key": "•••••••••••••",
+      "type": "custom"
+    },
+    {
+      "key": "• {#39} colors  {#keys}•",
+      "type": "colors",
+      "symbol": "circle"
+    },
+    {
+      "key": "•••••••••••••",
+      "type": "custom"
+    }
+  ]
+}
