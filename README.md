@@ -1,2 +1,7 @@
 # linus-slide
-Made for 2nd Special Assignment in CS1234
+Made for the 2nd Special Assignment in CS1234
+
+Required software-
+fish shell
+kitty terminal
+fastfetch
